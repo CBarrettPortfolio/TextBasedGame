@@ -18,7 +18,7 @@ To begin playing the text-based game and explore its cybersecurity elements, fol
 ## Additional Material
 Contained within this repository, you will find:
 - **Executable ZIP File:** The `TextBasedGame.zip` file contains an executable version of the game for easy access and execution.
-- **Supplementary Material:** All supplementary materials from the development process, including design documents, code snippets, and testing reports.
+- **Supplementary Material:** All supplementary materials from the development process, including design documents, code snippets, storyboards.
 
 ## How to Play
 - **Immerse in the Story:** Read the narrative and engage with characters to progress through the game.
