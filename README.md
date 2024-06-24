@@ -13,11 +13,11 @@ Welcome to the Text Based Game repository! This project serves as a demonstratio
 To begin playing the text-based game and explore its cybersecurity elements, follow these steps:
 1. **Clone the Repository:** Clone the project repository to your local machine.
 2. **Navigate to the Directory:** Open the project directory in your terminal or IDE.
-3. **Run the Game:** Execute the main Python script to launch the game and start your cybersecurity adventure.
+3. **Run the Game:** Execute the `TextBasedGame.py` Python script to launch the game and start your cybersecurity adventure.
 
 ## Additional Material
 Contained within this repository, you will find:
-- **Executable ZIP File:** A compressed file containing an executable version of the game for easy access and execution.
+- **Executable ZIP File:** The `TextBasedGame.zip` file contains an executable version of the game for easy access and execution.
 - **Supplementary Material:** All supplementary materials from the development process, including design documents, code snippets, and testing reports.
 
 ## How to Play
@@ -25,9 +25,6 @@ Contained within this repository, you will find:
 - **Make Choices:** Select options by entering corresponding numbers to shape the direction of the story.
 - **Apply Cybersecurity Knowledge:** Solve challenges and puzzles using cybersecurity concepts to advance in the game.
 - **Explore Different Paths:** Discover multiple endings and outcomes based on your decisions and actions.
-
-## Contributors
-- [Your Name](https://github.com/yourusername) - Developer and Cybersecurity Enthusiast
 
 ## License
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file included in the repository.
