@@ -20,7 +20,6 @@ Contained within this repository, you will find:
 
 ## How to Play
 - **Immerse in the Story:** Read the narrative and engage with characters to progress through the game.
-- **Make Choices:** Select options by entering corresponding numbers to shape the direction of the story.
 
 ## License
 This project is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file included in the repository.
