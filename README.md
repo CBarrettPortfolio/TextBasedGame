@@ -5,8 +5,6 @@ Welcome to the Text Based Game repository! This project serves as a demonstratio
 ## Features
 - **Engaging Storyline:** Immerse yourself in a captivating storyline with multiple branching paths.
 - **Dynamic Gameplay:** Experience gameplay that adapts based on user input and decisions.
-- **Interactive Dialogue System:** Engage in conversations with characters and make choices that influence the outcome.
-- **Cybersecurity Challenges:** Encounter challenges and puzzles that require cybersecurity knowledge to solve.
 - **Documentation:** Detailed documentation provided to enhance understanding and demonstrate documentation skills.
 
 ## Getting Started
